@@ -1,4 +1,4 @@
-# HomeCredit
+# Home Credit Default
 The goal is to lower loan risk by identifying patterns from within historical data.
 
 predict if someone is going to pay back\
